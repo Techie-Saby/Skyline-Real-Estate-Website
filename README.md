@@ -19,4 +19,4 @@
 
 ### Getting Started
 
-To set up the project locally, clone this repository and open `index.html` in your browser. For the best experience, use a local server to avoid CORS issues with some features.
+To set up the project locally, clone this repository and open `index.html` in your browser. For the best experience, use a local server to avoid CORS issues with some features.https://techie-saby.github.io/Skyline-Real-Estate-Website/
